@@ -1,4 +1,4 @@
-![Banner](Images/CLiF_Transparent.png){: width="30%" height="30%"}
+<img src="Images/CLiF_Transparent.png" width="30%" height="30%">
    
 ### Welcome to My Github!
 ## Developer CLiF
