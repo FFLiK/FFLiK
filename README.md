@@ -1,8 +1,8 @@
-<img src="Images/CLiF_Transparent.png" width="30%" height="30%">
-   
 # [ Developer CLiF ]
    
-### Welcome to My Github!
+<img src="Images/CLiF_Transparent.png" width="30%" height="30%">
+   
+## Welcome to My Github!
    
 > ### Programming Language
 > ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
