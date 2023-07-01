@@ -10,7 +10,7 @@
      
 > ### IDE
 > ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)   
-> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)   
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white) ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)    
       
 > ### Design
 > ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)   
@@ -19,5 +19,8 @@
 > ### Social
 > ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   
 > ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)   
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLiF-1593&show_icons=true&theme=dark)
+> ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)   
+
+> ### Github Stats
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLiF-1593&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)         
+> ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CLiF-1593&langs_count=10&layout=donut-vertical&theme=dark&hide_border=true&bg_color=00000000)         
