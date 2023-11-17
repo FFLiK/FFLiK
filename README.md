@@ -6,9 +6,8 @@
 <br/>
    
 ## 🙂 | Welcome to My Github!
-<br/>
 
-### 🔭 | About Me
+### 🔭 | About
 Hi, I'm a student who likes software development.     
 I prefer to develop any projects with C++ such as games and various tools      
 <br/>
