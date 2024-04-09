@@ -43,7 +43,7 @@ I prefer to develop any projects with C++ such as games and various tools
 <details>
 <summary>
    
-#### Most Use IDEs
+#### Most Used IDEs
 </summary>
 
 > ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)   
