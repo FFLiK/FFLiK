@@ -12,7 +12,6 @@ I prefer to develop any projects with C++ such as games and various tools
 <br/>
 
 ### 🛠️ | Projects Currently under Development
-* ADOFAI Macro
 * PlasAlpha
 * Hand Simulator
 <br/>
