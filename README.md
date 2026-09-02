@@ -1,17 +1,24 @@
 <p align="center">
-   <!--https://github.com/kyechan99/capsule-render-->
-   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=FFLiK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20a%20Student%20Developer&descAlignY=60&customColorList=2" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FFLiK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20Developer&descAlignY=60&customColorList=2"
+  />
 </p>
-<br/>
-   
-## 🙂 | Welcome to My Github!
 
-### 🔭 | About
-Hi, I'm a student who likes software development.     
-I prefer to develop any projects with C++ such as games and various tools      
-<br/>
+## 👋 Welcome to My GitHub
 
-### 🛠️ | Projects Currently under Development
-* PlasAlpha
-* Hand Simulator
-<br/>
+Hi, I'm **FFLiK**, a student developer at KAIST.
+
+I enjoy building software that connects technology, ideas, and people.  
+My interests include systems programming, robotics, product development, and design.
+
+### 🚧 Currently Building
+
+- Planisity
+- Five of Cups
+
+### 🛠️ Interests
+
+- C++ and software development
+- Robotics and simulations
+- Product engineering
+- UI/UX and visual design
