@@ -13,6 +13,8 @@ My interests include systems programming, robotics, product development, and des
 
 ### 🚧 Currently Building
 
+- Profile (new)
+- Sotdae
 - Planisity
 - Five of Cups
 
